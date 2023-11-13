@@ -71,3 +71,9 @@ footer {
   padding: 10px;
   cursor: pointer;
 }
+
+#stih {
+  font-size: 25px;
+  font-style: italic;
+  box-shadow: 4px 4px 8px #999999;
+}
